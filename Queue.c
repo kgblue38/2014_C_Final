@@ -5,8 +5,8 @@
 */
 #define	CHAR_STACK_TEMPLATE		(0)
 #define	QUEUE_TEMPLATE			(0)
-#include <stdio.h>
 #include <stdlib.h>
+int main
 
 static int *queue;
 static int capacity;
